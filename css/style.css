@@ -14,3 +14,15 @@ header p{
     margin-top: 10px;
     font-weight: bold;
 }
+
+section img{
+    width: 100%;
+}
+
+main{
+    border-bottom: solid 1px #ccc;
+    padding-bottom: 20px;
+}
+footer{
+    
+}
