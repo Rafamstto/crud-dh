@@ -23,6 +23,7 @@ main{
     border-bottom: solid 1px #ccc;
     padding-bottom: 20px;
 }
-footer{
-    
+div.container{
+    width: fit-content;
+    margin: 0 auto;
 }
