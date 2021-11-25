@@ -1,0 +1,16 @@
+body{
+    font-family: 'Rajdhani', sans-serif;
+    margin: 0 auto;
+    max-width: 800px;
+    width: 100%;
+  }
+#titulo{
+    margin-bottom: 0;
+    color: #ec183f;
+    font-size: 40px;
+
+}
+header p{
+    margin-top: 10px;
+    font-weight: bold;
+}
